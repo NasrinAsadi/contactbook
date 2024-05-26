@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Contact_Book_PythonGeeks'
+copyright = '2021, Nasrin'
+author = 'Nasrin'
 
 release = '0.1'
 version = '0.1.0'
